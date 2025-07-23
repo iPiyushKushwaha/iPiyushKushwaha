@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipiyushkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="ipiyushkushwaha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipiyushkushwaha" alt="ipiyushkushwaha" /></a> </p>
 
 - 🔭 App on Play store & APP store [DriveFixit](https://play.google.com/store/apps/details?id=com.shaheelbytecrafters.drivefixit&pcampaignid=web_share)
 
